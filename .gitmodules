@@ -1,0 +1,3 @@
+[submodule "thank-you-php"]
+    path = thank-you-php
+    url = https://github.com/thank-you-php/thank-you-php
