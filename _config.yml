@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: thank-you-php.png
