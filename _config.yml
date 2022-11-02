@@ -3,3 +3,6 @@ defaults:
       path: ""
     values:
       image: thank-you-php.png
+
+plugins:
+  - jemoji
