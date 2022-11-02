@@ -1,3 +1,3 @@
 # Thank you PHP
 
-{% include_relative thank-you-php/README.md %}
+GitHub pages for the *Thank you PHP* open letter of gratitude.
