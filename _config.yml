@@ -6,3 +6,9 @@ defaults:
 
 plugins:
   - jemoji
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
