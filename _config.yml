@@ -1,3 +1,6 @@
+title: Thank You PHP
+description: An open letter of gratitude to PHP
+
 defaults:
   - scope:
       path: ""
@@ -11,4 +14,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
+  - node_modules/
+  - package-lock.json
+  - package.json
   - README.md
+  - thank-you-php/
