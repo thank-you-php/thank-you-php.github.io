@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "@picocss/pico": "^1.5.6"
+    "@picocss/pico": "^1.5.9"
+  },
+  "scripts": {
+    "postinstall": "cp node_modules/@picocss/pico/css/pico.min.css $INIT_CWD/css"
   }
 }
